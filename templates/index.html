@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Disease Prediction System</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 450px;
+            background: #ffffff;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.3);
+            animation: fadeIn 0.6s ease-in-out;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        label {
+            font-weight: 600;
+            font-size: 14px;
+            color: #555;
+        }
+
+        input, select, textarea {
+            width: 100%;
+            padding: 11px;
+            margin-top: 6px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 14px;
+            transition: 0.3s;
+        }
+
+        input:focus, select:focus, textarea:focus {
+            border-color: #2a5298;
+            outline: none;
+            box-shadow: 0 0 8px rgba(42,82,152,0.3);
+        }
+
+        textarea {
+            resize: none;
+            height: 80px;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            border-radius: 10px;
+            border: none;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            background: linear-gradient(135deg, #28a745, #1e7e34);
+            color: white;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            transform: scale(1.03);
+            background: linear-gradient(135deg, #218838, #145c28);
+        }
+
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 12px;
+            background: #f4f6f9;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        .result h3 {
+            margin-bottom: 15px;
+        }
+
+        .risk {
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        .high {
+            background: #fdecea;
+            color: #d9534f;
+            font-weight: bold;
+        }
+
+        .medium {
+            background: #fff3cd;
+            color: #f0ad4e;
+            font-weight: bold;
+        }
+
+        .low {
+            background: #d1ecf1;
+            color: #5bc0de;
+            font-weight: bold;
+        }
+
+        .error {
+            color: red;
+            font-size: 13px;
+            margin-top: -10px;
+            margin-bottom: 10px;
+        }
+
+        @keyframes fadeIn {
+            from {opacity:0; transform: translateY(10px);}
+            to {opacity:1; transform: translateY(0);}
+        }
+    </style>
+
+    <script>
+        function validateForm() {
+            const name = document.forms["diseaseForm"]["name"].value.trim();
+            const age = document.forms["diseaseForm"]["age"].value;
+            const gender = document.forms["diseaseForm"]["gender"].value;
+            const symptoms = document.forms["diseaseForm"]["symptoms"].value.trim();
+
+            if (name.length < 3) {
+                alert("Name must be at least 3 characters.");
+                return false;
+            }
+
+            if (age < 1 || age > 120) {
+                alert("Enter valid age between 1 and 120.");
+                return false;
+            }
+
+            if (gender === "") {
+                alert("Please select gender.");
+                return false;
+            }
+
+            if (symptoms.length < 5) {
+                alert("Enter valid symptoms.");
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>Disease Prediction</h2>
+
+    <form name="diseaseForm" method="post" onsubmit="return validateForm()">
+        
+        <label>Patient Name</label>
+        <input type="text" name="name" required>
+
+        <label>Age</label>
+        <input type="number" name="age" required>
+
+        <label>Gender</label>
+        <select name="gender" required>
+            <option value="">Select Gender</option>
+            <option>Male</option>
+            <option>Female</option>
+            <option>Other</option>
+        </select>
+
+        <label>Symptoms</label>
+        <textarea name="symptoms" placeholder="e.g., fever, cough, fatigue" required></textarea>
+
+        <button type="submit">Predict Disease</button>
+    </form>
+
+    {% if output %}
+    <div class="result">
+        <h3>Prediction Result</h3>
+
+        <div class="risk high">
+            HIGH Risk: {{ output["HIGH"][0] }} ({{ output["HIGH"][1] }}%)
+        </div>
+
+        <div class="risk medium">
+            MEDIUM Risk: {{ output["MEDIUM"][0] }} ({{ output["MEDIUM"][1] }}%)
+        </div>
+
+        <div class="risk low">
+            LOW Risk: {{ output["LOW"][0] }} ({{ output["LOW"][1] }}%)
+        </div>
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

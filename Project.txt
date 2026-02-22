@@ -1,0 +1,7 @@
+data.py -> Used for preprocessing
+datastore.py -> used to store the data in MYSQL ans use it for dashboard if needed
+Healthcare_data.csv -> original data
+Healthcare_Transformed.csv -> cleaned data
+app.py -> flask web application for UI and routing
+model.py -> for the ML model training by Naive Bayes algorithm
+templates/index.html -> Frontend UI
