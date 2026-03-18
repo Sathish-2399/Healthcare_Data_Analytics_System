@@ -5,8 +5,8 @@ patient_id,age,gender,symptoms,symptom_count,disease,age_group
 5,73,Male,"chest discomfort, cough, fatigue",3,Bronchitis,Senior
 6,58,Other,"shortness of breath, dizziness, pale skin",3,Anemia,Adult
 7,71,Other,"weight loss, frequent urination, fatigue",3,Diabetes,Senior
-8,22,Female,"depression, weight loss, fatigue",3,Thyroid Disorder,Young Adult
-9,19,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Young Adult
+8,22,Female,"depression, weight loss, fatigue",3,Thyroid Disorder,Adult
+9,19,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Teen
 10,73,Female,"depression, weight loss, fatigue",3,Thyroid Disorder,Senior
 11,69,Male,"weight loss, fatigue, depression",3,Thyroid Disorder,Senior
 12,64,Male,"itchy eyes, runny nose, rash",3,Allergy,Senior
@@ -27,64 +27,64 @@ patient_id,age,gender,symptoms,symptom_count,disease,age_group
 28,66,Male,"thirst, weight loss, frequent urination",3,Diabetes,Senior
 29,73,Other,"slurred speech, blurred vision, weakness",3,Stroke,Senior
 30,36,Male,"sore throat, fatigue, body pain",3,Influenza,Adult
-31,34,Male,"slurred speech, weakness, blurred vision",3,Stroke,Young Adult
+31,34,Male,"slurred speech, weakness, blurred vision",3,Stroke,Adult
 32,76,Other,"weakness, loss of balance, slurred speech",3,Stroke,Senior
-33,19,Male,"reduced mobility, joint pain, stiffness",3,Arthritis,Young Adult
-34,23,Female,"weight loss, frequent urination, thirst",3,Diabetes,Young Adult
+33,19,Male,"reduced mobility, joint pain, stiffness",3,Arthritis,Teen
+34,23,Female,"weight loss, frequent urination, thirst",3,Diabetes,Adult
 35,57,Female,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
-36,19,Male,"weight gain, weight loss, depression",3,Thyroid Disorder,Young Adult
-37,31,Female,"fatigue, frequent urination, thirst",3,Diabetes,Young Adult
+36,19,Male,"weight gain, weight loss, depression",3,Thyroid Disorder,Teen
+37,31,Female,"fatigue, frequent urination, thirst",3,Diabetes,Adult
 39,79,Male,"cough, sore throat, fatigue",3,Influenza,Senior
 40,72,Female,"slurred speech, weakness, loss of balance",3,Stroke,Senior
-42,23,Other,"sore throat, fatigue, cough",3,Influenza,Young Adult
+42,23,Other,"sore throat, fatigue, cough",3,Influenza,Adult
 43,66,Other,"fatigue, chest discomfort, cough",3,Bronchitis,Senior
-45,18,Female,"fatigue, dizziness, shortness of breath",3,Anemia,Child
+45,18,Female,"fatigue, dizziness, shortness of breath",3,Anemia,Teen
 46,74,Female,"runny nose, sneezing, rash",3,Allergy,Senior
 47,49,Female,"stiffness, swelling, reduced mobility",3,Arthritis,Adult
 48,71,Female,"loss of balance, weakness, blurred vision",3,Stroke,Senior
-49,23,Male,"weight loss, fatigue, weight gain",3,Thyroid Disorder,Young Adult
+49,23,Male,"weight loss, fatigue, weight gain",3,Thyroid Disorder,Adult
 50,43,Other,"frequent urination, thirst, weight loss",3,Diabetes,Adult
 51,69,Female,"fever, sore throat, cough",3,Influenza,Senior
 52,67,Male,"cough, sore throat, body pain",3,Influenza,Senior
-54,17,Other,"depression, weight loss, fatigue",3,Thyroid Disorder,Child
+54,17,Other,"depression, weight loss, fatigue",3,Thyroid Disorder,Teen
 56,11,Male,"weight loss, fatigue, thirst",3,Diabetes,Child
-57,15,Male,"fatigue, dizziness, pale skin",3,Anemia,Child
+57,15,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
 58,71,Other,"swelling, stiffness, joint pain",3,Arthritis,Senior
 59,51,Male,"blurred vision, slurred speech, weakness",3,Stroke,Adult
 60,61,Other,"thirst, frequent urination, weight loss",3,Diabetes,Senior
-61,20,Male,"chest discomfort, mucus, fatigue",3,Bronchitis,Young Adult
+61,20,Male,"chest discomfort, mucus, fatigue",3,Bronchitis,Adult
 62,39,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
 63,36,Female,"mucus, cough, fatigue",3,Bronchitis,Adult
-64,23,Female,"fatigue, weight loss, frequent urination",3,Diabetes,Young Adult
+64,23,Female,"fatigue, weight loss, frequent urination",3,Diabetes,Adult
 65,54,Female,"swelling, joint pain, stiffness",3,Arthritis,Adult
 66,61,Male,"frequent urination, weight loss, fatigue",3,Diabetes,Senior
 70,45,Female,"stiffness, joint pain, swelling",3,Arthritis,Adult
 71,73,Male,"depression, weight gain, fatigue",3,Thyroid Disorder,Senior
 72,63,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
-73,34,Male,"sneezing, itchy eyes, runny nose",3,Allergy,Young Adult
+73,34,Male,"sneezing, itchy eyes, runny nose",3,Allergy,Adult
 74,52,Other,"body pain, fatigue, cough",3,Influenza,Adult
-75,18,Female,"chest pain, fatigue, shortness of breath",3,Heart Disease,Child
+75,18,Female,"chest pain, fatigue, shortness of breath",3,Heart Disease,Teen
 76,52,Male,"slurred speech, blurred vision, weakness",3,Stroke,Adult
 77,12,Female,"sore throat, fatigue, cough",3,Influenza,Child
 78,11,Female,"weight loss, weight gain, fatigue",3,Thyroid Disorder,Child
 79,39,Male,"stiffness, swelling, joint pain",3,Arthritis,Adult
 80,42,Female,"reduced mobility, joint pain, swelling",3,Arthritis,Adult
-81,24,Male,"fatigue, frequent urination, thirst",3,Diabetes,Young Adult
+81,24,Male,"fatigue, frequent urination, thirst",3,Diabetes,Adult
 82,70,Male,"dizziness, fatigue, pale skin",3,Anemia,Senior
 83,56,Male,"thirst, frequent urination, weight loss",3,Diabetes,Adult
 84,70,Male,"dizziness, pale skin, shortness of breath",3,Anemia,Senior
 85,74,Other,"pale skin, shortness of breath, fatigue",3,Anemia,Senior
 86,71,Female,"pale skin, dizziness, shortness of breath",3,Anemia,Senior
 87,62,Male,"fatigue, chest discomfort, cough",3,Bronchitis,Senior
-88,30,Male,"fatigue, weight loss, depression",3,Thyroid Disorder,Young Adult
+88,30,Male,"fatigue, weight loss, depression",3,Thyroid Disorder,Adult
 89,48,Female,"chest discomfort, cough, fatigue",3,Bronchitis,Adult
 90,78,Female,"dizziness, pale skin, fatigue",3,Anemia,Senior
 91,57,Male,"sore throat, body pain, fatigue",3,Influenza,Adult
 93,49,Male,"shortness of breath, fatigue, dizziness",3,Anemia,Adult
 94,67,Other,"weight loss, fatigue, thirst",3,Diabetes,Senior
-95,25,Other,"fatigue, pale skin, shortness of breath",3,Anemia,Young Adult
+95,25,Other,"fatigue, pale skin, shortness of breath",3,Anemia,Adult
 96,57,Other,"body pain, fatigue, sore throat",3,Influenza,Adult
 97,40,Male,"swelling, reduced mobility, joint pain",3,Arthritis,Adult
 98,80,Other,"slurred speech, weakness, loss of balance",3,Stroke,Senior
-99,26,Male,"cough, fever, sore throat",3,Influenza,Young Adult
+99,26,Male,"cough, fever, sore throat",3,Influenza,Adult
 100,44,Female,"frequent urination, weight loss, fatigue",3,Diabetes,Adult

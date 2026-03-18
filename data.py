@@ -30,11 +30,19 @@ for col in df.select_dtypes(include="object"):
 print(df.groupby("disease")["age"].mean())
 print(df["disease"].value_counts())
 
-df["age_group"] = pd.cut(
-    df["age"],
-    bins=[0, 18, 35, 60, 100],
-    labels=["Child", "Young Adult", "Adult", "Senior"]
-)
+def get_age_group(age):
+    if age<=12:
+        return "Child"
+    elif age<=19:
+        return "Teen"
+    elif age<=60:
+        return "Adult"
+    else:
+        return "Senior"
+    
+
+
+df["age_group"]=df["age"].apply(get_age_group)
 
 print("No of rows")
 
