@@ -88,3 +88,903 @@ patient_id,age,gender,symptoms,symptom_count,disease,age_group
 98,80,Other,"slurred speech, weakness, loss of balance",3,Stroke,Senior
 99,26,Male,"cough, fever, sore throat",3,Influenza,Adult
 100,44,Female,"frequent urination, weight loss, fatigue",3,Diabetes,Adult
+101,34,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease,Adult
+102,67,Female,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+103,22,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+104,45,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+105,71,Female,"thirst, frequent urination, weight loss",3,Diabetes,Senior
+106,12,Male,"cough, fever, sore throat",3,Influenza,Child
+107,29,Female,"runny nose, sneezing, itchy eyes",3,Allergy,Adult
+108,56,Male,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
+109,63,Female,"loss of balance, slurred speech, weakness",3,Stroke,Senior
+110,19,Male,"weight loss, fatigue, pale skin",3,Anemia,Teen
+111,52,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+112,74,Male,"frequent urination, thirst, fatigue",3,Diabetes,Senior
+113,9,Female,"mucus, cough, fatigue",3,Bronchitis,Child
+114,38,Male,"chest discomfort, shortness of breath, fatigue",3,Heart Disease,Adult
+115,68,Female,"blurred vision, weakness, slurred speech",3,Stroke,Senior
+116,24,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+117,47,Male,"stiffness, joint pain, reduced mobility",3,Arthritis,Adult
+118,61,Female,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+119,14,Male,"fever, sore throat, cough",3,Influenza,Teen
+120,33,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+121,50,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+122,72,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+123,21,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+124,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+125,66,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+126,10,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+127,36,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+128,70,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+129,23,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+130,48,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+131,62,Female,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+132,8,Male,"fever, sore throat, cough",3,Influenza,Child
+133,41,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+134,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+135,75,Female,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+136,18,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+137,46,Female,"stiffness, swelling, joint pain",3,Arthritis,Adult
+138,64,Male,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+139,11,Female,"cough, fever, fatigue",3,Influenza,Child
+140,39,Male,"itchy eyes, runny nose, sneezing",3,Allergy,Adult
+141,53,Female,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+142,69,Male,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+143,20,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+144,42,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+145,60,Female,"frequent urination, thirst, weight loss",3,Diabetes,Adult
+146,7,Male,"cough, mucus, fatigue",3,Bronchitis,Child
+147,37,Female,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+148,73,Male,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+149,25,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+150,49,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+151,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+152,13,Female,"fever, sore throat, cough",3,Influenza,Teen
+153,35,Male,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+154,58,Female,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+155,76,Male,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+156,17,Female,"fatigue, pale skin, dizziness",3,Anemia,Teen
+157,43,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+158,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+159,9,Male,"cough, fever, fatigue",3,Influenza,Child
+160,32,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+161,54,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+162,71,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+163,22,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+164,47,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+165,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+166,6,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+167,40,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+168,78,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+169,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+170,51,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+171,68,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+172,11,Male,"fever, sore throat, cough",3,Influenza,Child
+173,33,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+174,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+175,74,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+176,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+177,45,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+178,61,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+179,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+180,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+181,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+182,23,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+183,50,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+184,66,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+185,10,Male,"fever, sore throat, cough",3,Influenza,Child
+186,34,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+187,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+188,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+189,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+190,46,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+191,62,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+192,7,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+193,39,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+194,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+195,25,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+196,48,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+197,64,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+198,12,Male,"fever, sore throat, cough",3,Influenza,Child
+199,36,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+200,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+201,43,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+202,69,Male,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+203,24,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+204,51,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease,Adult
+205,72,Female,"thirst, frequent urination, weight loss",3,Diabetes,Senior
+206,10,Male,"cough, fever, sore throat",3,Influenza,Child
+207,37,Female,"runny nose, sneezing, itchy eyes",3,Allergy,Adult
+208,58,Male,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
+209,75,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+210,20,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+211,46,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+212,64,Male,"frequent urination, thirst, fatigue",3,Diabetes,Senior
+213,8,Female,"mucus, cough, fatigue",3,Bronchitis,Child
+214,39,Male,"chest discomfort, shortness of breath, fatigue",3,Heart Disease,Adult
+215,71,Female,"blurred vision, weakness, slurred speech",3,Stroke,Senior
+216,23,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+217,48,Male,"stiffness, joint pain, reduced mobility",3,Arthritis,Adult
+218,62,Female,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+219,13,Male,"fever, sore throat, cough",3,Influenza,Teen
+220,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+221,54,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+222,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+223,21,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+224,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+225,66,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+226,11,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+227,40,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+228,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+229,25,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+230,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+231,61,Female,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+232,7,Male,"fever, sore throat, cough",3,Influenza,Child
+233,33,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+234,56,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+235,74,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+236,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+237,45,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+238,63,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+239,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+240,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+241,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+242,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+243,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+244,68,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+245,12,Male,"fever, sore throat, cough",3,Influenza,Child
+246,34,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+247,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+248,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+249,23,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+250,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+251,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+252,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+253,41,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+254,70,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+255,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+256,52,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+257,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+258,10,Male,"fever, sore throat, cough",3,Influenza,Child
+259,36,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+260,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+261,75,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+262,20,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+263,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+264,62,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+265,7,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+266,39,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+267,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+268,25,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+269,48,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+270,64,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+271,11,Male,"fever, sore throat, cough",3,Influenza,Child
+272,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+273,58,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+274,76,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+275,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+276,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+277,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+278,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+279,37,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+280,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+281,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+282,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+283,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+284,12,Male,"fever, sore throat, cough",3,Influenza,Child
+285,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+286,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+287,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+288,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+289,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+290,66,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+291,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+292,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+293,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+294,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+295,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+296,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+297,10,Male,"fever, sore throat, cough",3,Influenza,Child
+298,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+299,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+300,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+301,45,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+302,70,Female,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+303,23,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+304,52,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease,Adult
+305,68,Female,"thirst, frequent urination, weight loss",3,Diabetes,Senior
+306,11,Male,"cough, fever, sore throat",3,Influenza,Child
+307,38,Female,"runny nose, sneezing, itchy eyes",3,Allergy,Adult
+308,57,Male,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
+309,75,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+310,20,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+311,46,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+312,63,Male,"frequent urination, thirst, fatigue",3,Diabetes,Senior
+313,9,Female,"mucus, cough, fatigue",3,Bronchitis,Child
+314,40,Male,"chest discomfort, shortness of breath, fatigue",3,Heart Disease,Adult
+315,71,Female,"blurred vision, weakness, slurred speech",3,Stroke,Senior
+316,24,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+317,49,Male,"stiffness, joint pain, reduced mobility",3,Arthritis,Adult
+318,61,Female,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+319,14,Male,"fever, sore throat, cough",3,Influenza,Teen
+320,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+321,54,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+322,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+323,22,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+324,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+325,66,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+326,10,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+327,41,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+328,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+329,25,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+330,48,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+331,62,Female,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+332,8,Male,"fever, sore throat, cough",3,Influenza,Child
+333,33,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+334,56,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+335,74,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+336,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+337,45,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+338,64,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+339,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+340,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+341,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+342,23,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+343,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+344,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+345,12,Male,"fever, sore throat, cough",3,Influenza,Child
+346,34,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+347,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+348,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+349,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+350,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+351,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+352,7,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+353,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+354,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+355,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+356,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+357,68,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+358,10,Male,"fever, sore throat, cough",3,Influenza,Child
+359,36,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+360,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+361,75,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+362,20,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+363,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+364,62,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+365,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+366,39,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+367,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+368,25,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+369,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+370,64,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+371,11,Male,"fever, sore throat, cough",3,Influenza,Child
+372,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+373,58,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+374,76,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+375,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+376,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+377,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+378,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+379,37,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+380,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+381,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+382,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+383,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+384,12,Male,"fever, sore throat, cough",3,Influenza,Child
+385,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+386,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+387,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+388,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+389,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+390,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+391,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+392,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+393,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+394,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+395,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+396,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+397,10,Male,"fever, sore throat, cough",3,Influenza,Child
+398,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+399,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+400,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+401,46,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+402,72,Female,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+403,23,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+404,54,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease,Adult
+405,69,Female,"thirst, frequent urination, weight loss",3,Diabetes,Senior
+406,11,Male,"cough, fever, sore throat",3,Influenza,Child
+407,39,Female,"runny nose, sneezing, itchy eyes",3,Allergy,Adult
+408,58,Male,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
+409,75,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+410,20,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+411,47,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+412,63,Male,"frequent urination, thirst, fatigue",3,Diabetes,Senior
+413,9,Female,"mucus, cough, fatigue",3,Bronchitis,Child
+414,41,Male,"chest discomfort, shortness of breath, fatigue",3,Heart Disease,Adult
+415,71,Female,"blurred vision, weakness, slurred speech",3,Stroke,Senior
+416,24,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+417,49,Male,"stiffness, joint pain, reduced mobility",3,Arthritis,Adult
+418,61,Female,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+419,14,Male,"fever, sore throat, cough",3,Influenza,Teen
+420,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+421,55,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+422,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+423,22,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+424,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+425,66,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+426,10,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+427,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+428,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+429,25,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+430,48,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+431,62,Female,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+432,8,Male,"fever, sore throat, cough",3,Influenza,Child
+433,33,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+434,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+435,74,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+436,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+437,45,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+438,64,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+439,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+440,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+441,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+442,23,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+443,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+444,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+445,12,Male,"fever, sore throat, cough",3,Influenza,Child
+446,34,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+447,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+448,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+449,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+450,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+451,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+452,7,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+453,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+454,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+455,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+456,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+457,68,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+458,10,Male,"fever, sore throat, cough",3,Influenza,Child
+459,36,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+460,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+461,75,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+462,20,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+463,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+464,62,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+465,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+466,39,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+467,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+468,25,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+469,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+470,64,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+471,11,Male,"fever, sore throat, cough",3,Influenza,Child
+472,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+473,58,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+474,76,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+475,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+476,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+477,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+478,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+479,37,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+480,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+481,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+482,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+483,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+484,12,Male,"fever, sore throat, cough",3,Influenza,Child
+485,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+486,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+487,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+488,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+489,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+490,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+491,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+492,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+493,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+494,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+495,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+496,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+497,10,Male,"fever, sore throat, cough",3,Influenza,Child
+498,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+499,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+500,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+501,26,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+502,48,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+503,64,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+504,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+505,37,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+506,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+507,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+508,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+509,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+510,12,Male,"fever, sore throat, cough",3,Influenza,Child
+511,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+512,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+513,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+514,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+515,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+516,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+517,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+518,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+519,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+520,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+521,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+522,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+523,10,Male,"fever, sore throat, cough",3,Influenza,Child
+524,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+525,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+526,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+527,25,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+528,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+529,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+530,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+531,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+532,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+533,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+534,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+535,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+536,12,Male,"fever, sore throat, cough",3,Influenza,Child
+537,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+538,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+539,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+540,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+541,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+542,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+543,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+544,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+545,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+546,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+547,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+548,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+549,10,Male,"fever, sore throat, cough",3,Influenza,Child
+550,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+551,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+552,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+553,25,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+554,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+555,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+556,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+557,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+558,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+559,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+560,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+561,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+562,12,Male,"fever, sore throat, cough",3,Influenza,Child
+563,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+564,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+565,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+566,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+567,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+568,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+569,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+570,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+571,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+572,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+573,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+574,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+575,10,Male,"fever, sore throat, cough",3,Influenza,Child
+576,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+577,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+578,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+579,25,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+580,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+581,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+582,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+583,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+584,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+585,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+586,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+587,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+588,12,Male,"fever, sore throat, cough",3,Influenza,Child
+589,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+590,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+591,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+592,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+593,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+594,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+595,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+596,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+597,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+598,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+599,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+600,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+601,45,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+602,70,Female,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+603,23,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+604,52,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease,Adult
+605,68,Female,"thirst, frequent urination, weight loss",3,Diabetes,Senior
+606,11,Male,"cough, fever, sore throat",3,Influenza,Child
+607,38,Female,"runny nose, sneezing, itchy eyes",3,Allergy,Adult
+608,57,Male,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
+609,75,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+610,20,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+611,46,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+612,63,Male,"frequent urination, thirst, fatigue",3,Diabetes,Senior
+613,9,Female,"mucus, cough, fatigue",3,Bronchitis,Child
+614,40,Male,"chest discomfort, shortness of breath, fatigue",3,Heart Disease,Adult
+615,71,Female,"blurred vision, weakness, slurred speech",3,Stroke,Senior
+616,24,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+617,49,Male,"stiffness, joint pain, reduced mobility",3,Arthritis,Adult
+618,61,Female,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+619,14,Male,"fever, sore throat, cough",3,Influenza,Teen
+620,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+621,54,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+622,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+623,22,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+624,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+625,66,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+626,10,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+627,41,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+628,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+629,25,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+630,48,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+631,62,Female,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+632,8,Male,"fever, sore throat, cough",3,Influenza,Child
+633,33,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+634,56,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+635,74,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+636,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+637,45,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+638,64,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+639,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+640,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+641,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+642,23,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+643,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+644,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+645,12,Male,"fever, sore throat, cough",3,Influenza,Child
+646,34,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+647,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+648,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+649,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+650,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+651,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+652,7,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+653,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+654,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+655,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+656,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+657,68,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+658,10,Male,"fever, sore throat, cough",3,Influenza,Child
+659,36,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+660,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+661,75,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+662,20,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+663,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+664,62,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+665,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+666,39,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+667,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+668,25,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+669,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+670,64,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+671,11,Male,"fever, sore throat, cough",3,Influenza,Child
+672,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+673,58,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+674,76,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+675,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+676,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+677,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+678,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+679,37,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+680,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+681,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+682,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+683,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+684,12,Male,"fever, sore throat, cough",3,Influenza,Child
+685,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+686,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+687,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+688,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+689,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+690,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+691,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+692,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+693,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+694,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+695,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+696,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+697,10,Male,"fever, sore throat, cough",3,Influenza,Child
+698,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+699,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+700,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+701,45,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+702,70,Female,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+703,23,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+704,52,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease,Adult
+705,68,Female,"thirst, frequent urination, weight loss",3,Diabetes,Senior
+706,11,Male,"cough, fever, sore throat",3,Influenza,Child
+707,38,Female,"runny nose, sneezing, itchy eyes",3,Allergy,Adult
+708,57,Male,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
+709,75,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+710,20,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+711,46,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+712,63,Male,"frequent urination, thirst, fatigue",3,Diabetes,Senior
+713,9,Female,"mucus, cough, fatigue",3,Bronchitis,Child
+714,40,Male,"chest discomfort, shortness of breath, fatigue",3,Heart Disease,Adult
+715,71,Female,"blurred vision, weakness, slurred speech",3,Stroke,Senior
+716,24,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+717,49,Male,"stiffness, joint pain, reduced mobility",3,Arthritis,Adult
+718,61,Female,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+719,14,Male,"fever, sore throat, cough",3,Influenza,Teen
+720,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+721,54,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+722,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+723,22,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+724,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+725,66,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+726,10,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+727,41,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+728,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+729,25,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+730,48,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+731,62,Female,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+732,8,Male,"fever, sore throat, cough",3,Influenza,Child
+733,33,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+734,56,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+735,74,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+736,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+737,45,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+738,64,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+739,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+740,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+741,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+742,23,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+743,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+744,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+745,12,Male,"fever, sore throat, cough",3,Influenza,Child
+746,34,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+747,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+748,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+749,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+750,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+751,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+752,7,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+753,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+754,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+755,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+756,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+757,68,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+758,10,Male,"fever, sore throat, cough",3,Influenza,Child
+759,36,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+760,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+761,75,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+762,20,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+763,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+764,62,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+765,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+766,39,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+767,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+768,25,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+769,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+770,64,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+771,11,Male,"fever, sore throat, cough",3,Influenza,Child
+772,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+773,58,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+774,76,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+775,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+776,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+777,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+778,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+779,37,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+780,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+781,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+782,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+783,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+784,12,Male,"fever, sore throat, cough",3,Influenza,Child
+785,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+786,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+787,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+788,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+789,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+790,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+791,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+792,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+793,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+794,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+795,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+796,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+797,10,Male,"fever, sore throat, cough",3,Influenza,Child
+798,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+799,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+800,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+801,46,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+802,71,Female,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+803,23,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+804,53,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease,Adult
+805,68,Female,"thirst, frequent urination, weight loss",3,Diabetes,Senior
+806,10,Male,"cough, fever, sore throat",3,Influenza,Child
+807,39,Female,"runny nose, sneezing, itchy eyes",3,Allergy,Adult
+808,58,Male,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
+809,74,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+810,20,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+811,47,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+812,63,Male,"frequent urination, thirst, fatigue",3,Diabetes,Senior
+813,9,Female,"mucus, cough, fatigue",3,Bronchitis,Child
+814,41,Male,"chest discomfort, shortness of breath, fatigue",3,Heart Disease,Adult
+815,72,Female,"blurred vision, weakness, slurred speech",3,Stroke,Senior
+816,24,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+817,49,Male,"stiffness, joint pain, reduced mobility",3,Arthritis,Adult
+818,61,Female,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+819,14,Male,"fever, sore throat, cough",3,Influenza,Teen
+820,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+821,55,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+822,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+823,22,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+824,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+825,66,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+826,10,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+827,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+828,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+829,25,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+830,48,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+831,62,Female,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+832,8,Male,"fever, sore throat, cough",3,Influenza,Child
+833,33,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+834,56,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+835,74,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+836,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+837,45,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+838,64,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+839,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+840,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+841,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+842,23,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+843,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+844,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+845,12,Male,"fever, sore throat, cough",3,Influenza,Child
+846,34,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+847,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+848,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+849,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+850,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+851,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+852,7,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+853,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+854,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+855,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+856,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+857,68,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+858,10,Male,"fever, sore throat, cough",3,Influenza,Child
+859,36,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+860,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+861,75,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+862,20,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+863,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+864,62,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+865,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+866,39,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+867,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+868,25,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+869,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+870,64,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+871,11,Male,"fever, sore throat, cough",3,Influenza,Child
+872,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+873,58,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+874,76,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+875,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+876,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+877,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+878,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+879,37,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+880,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+881,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+882,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+883,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+884,12,Male,"fever, sore throat, cough",3,Influenza,Child
+885,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+886,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+887,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+888,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+889,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+890,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+891,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+892,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+893,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+894,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+895,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+896,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+897,10,Male,"fever, sore throat, cough",3,Influenza,Child
+898,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+899,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+900,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+901,46,Male,"joint pain, stiffness, swelling",3,Arthritis,Adult
+902,72,Female,"slurred speech, weakness, blurred vision",3,Stroke,Senior
+903,23,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+904,54,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease,Adult
+905,69,Female,"thirst, frequent urination, weight loss",3,Diabetes,Senior
+906,11,Male,"cough, fever, sore throat",3,Influenza,Child
+907,39,Female,"runny nose, sneezing, itchy eyes",3,Allergy,Adult
+908,58,Male,"fatigue, chest pain, dizziness",3,Heart Disease,Adult
+909,75,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+910,20,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+911,47,Female,"joint pain, swelling, stiffness",3,Arthritis,Adult
+912,63,Male,"frequent urination, thirst, fatigue",3,Diabetes,Senior
+913,9,Female,"mucus, cough, fatigue",3,Bronchitis,Child
+914,41,Male,"chest discomfort, shortness of breath, fatigue",3,Heart Disease,Adult
+915,71,Female,"blurred vision, weakness, slurred speech",3,Stroke,Senior
+916,24,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+917,49,Male,"stiffness, joint pain, reduced mobility",3,Arthritis,Adult
+918,61,Female,"weight loss, thirst, frequent urination",3,Diabetes,Senior
+919,14,Male,"fever, sore throat, cough",3,Influenza,Teen
+920,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+921,55,Male,"chest pain, fatigue, dizziness",3,Heart Disease,Adult
+922,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+923,22,Male,"fatigue, pale skin, dizziness",3,Anemia,Adult
+924,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+925,66,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+926,10,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+927,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+928,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+929,25,Female,"fatigue, dizziness, pale skin",3,Anemia,Adult
+930,48,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+931,62,Female,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+932,8,Male,"fever, sore throat, cough",3,Influenza,Child
+933,33,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+934,56,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+935,74,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+936,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+937,45,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+938,64,Male,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+939,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+940,38,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+941,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+942,23,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+943,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+944,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+945,12,Male,"fever, sore throat, cough",3,Influenza,Child
+946,34,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+947,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+948,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+949,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+950,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+951,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+952,7,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+953,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+954,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+955,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+956,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+957,68,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+958,10,Male,"fever, sore throat, cough",3,Influenza,Child
+959,36,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+960,57,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+961,75,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+962,20,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+963,47,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+964,62,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+965,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+966,39,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+967,73,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+968,25,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+969,49,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+970,64,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+971,11,Male,"fever, sore throat, cough",3,Influenza,Child
+972,35,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+973,58,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+974,76,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+975,19,Male,"fatigue, dizziness, pale skin",3,Anemia,Teen
+976,44,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+977,63,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+978,9,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+979,37,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+980,72,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+981,22,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+982,50,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+983,67,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+984,12,Male,"fever, sore throat, cough",3,Influenza,Child
+985,34,Female,"runny nose, itchy eyes, sneezing",3,Allergy,Adult
+986,55,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+987,78,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior
+988,21,Male,"fatigue, dizziness, pale skin",3,Anemia,Adult
+989,46,Female,"joint pain, stiffness, swelling",3,Arthritis,Adult
+990,65,Male,"thirst, frequent urination, fatigue",3,Diabetes,Senior
+991,8,Female,"cough, mucus, fatigue",3,Bronchitis,Child
+992,42,Male,"chest pain, shortness of breath, fatigue",3,Heart Disease,Adult
+993,71,Female,"weakness, slurred speech, loss of balance",3,Stroke,Senior
+994,24,Female,"fatigue, pale skin, dizziness",3,Anemia,Adult
+995,53,Male,"joint pain, swelling, stiffness",3,Arthritis,Adult
+996,69,Female,"frequent urination, thirst, weight loss",3,Diabetes,Senior
+997,10,Male,"fever, sore throat, cough",3,Influenza,Child
+998,36,Female,"itchy eyes, sneezing, runny nose",3,Allergy,Adult
+999,59,Male,"fatigue, chest pain, shortness of breath",3,Heart Disease,Adult
+1000,77,Female,"slurred speech, blurred vision, weakness",3,Stroke,Senior

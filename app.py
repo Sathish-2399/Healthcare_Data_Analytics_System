@@ -1,9 +1,7 @@
-import json
-import time
 import pandas as pd
 import os
 
-from flask import Flask, Response, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify
 from model import predict_disease
 
 app = Flask(__name__)
@@ -34,11 +32,13 @@ def index():
 
     return render_template("index.html", output=output)
 
+
 @app.route("/api/data", methods=["GET"])
 def get_data():
     df = pd.read_csv("Healthcare_Transformed.csv")
     return jsonify(df.to_dict(orient="records"))
 
+
 if __name__ == "__main__":
-    port=int(os.environ.get("PORT",5000))
-    app.run(host="0.0.0.0",port=port)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
